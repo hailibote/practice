@@ -106,10 +106,10 @@
 #         active_users[user] = status
 # print(active_users)
 
-Emails = {'google':'@gmail.com', 'msn':'@msn.com', '126':'@126.com'}
+# Emails = {'google':'@gmail.com', 'msn':'@msn.com', '126':'@126.com'}
 
-d = max(map(len, Emails.keys()))    #获取key的最大值
-print(d)
+# d = max(map(len, Emails.keys()))    #获取key的最大值
+# print(d)
 # for key,values in Emails.items():
 #      print(key.rjust(d),":",values)
 
