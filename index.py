@@ -112,3 +112,5 @@ d = max(map(len, Emails.keys()))    #获取key的最大值
 print(d)
 # for key,values in Emails.items():
 #      print(key.rjust(d),":",values)
+
+# mac测试同步
